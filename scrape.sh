@@ -1,3 +1,5 @@
+export LC_ALL='C'
+
 site=$(wget -qO- http://www.kauppalehti.fi/5/i/porssi/porssikurssit/ | grep '<td' | grep 'num\|a href' | gsed -e 's/\ \+//g' -e 's/OMXH/BREAK/g')
 i=1
 found=0
@@ -9,6 +11,7 @@ while read -r line;do
 		start=$i
 		found=1
 		on=1
+		line_to_append="$line"
 		#continue;
 	elif [[ found -eq 1 ]];then
 		if [[ "$line" == *BREAK* ]];then
@@ -29,7 +32,9 @@ done <<< "$site"
 #echo "$start"
 #trim=$(echo "$site" | tail -n $((i-start)))
 #echo "$trim"
-echo -e "$new"
+#echo -e "$new" | gsed -e 's/^[ \t]*//g'
+trim=$(echo -e "$new" | gsed -e 's/<[^>]\+>//g' -e 's/^[ \t]*//g' -e 's/.*rssi //g' ) #| cut -d ' ' -f1- #-e 's/<.*"//g' -e 's/[. ">a-zöäå?ÖÄÅ]*"\/>//g' -e 's/.*>//g' #-e 's/.*\"\/>//g' #-e 's/\/>//g' #-e 's/.*\/>//g' -e 's/^.*\"\>//g'
+echo "$trim" #| cut -d ' ' -f2
 #trim=$(echo "$site" | tail -1)
 #echo "$site" | head -1 
 #echo "$site"
