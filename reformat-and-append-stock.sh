@@ -13,8 +13,13 @@ if [ -f stock.txt ];then
 		new_line=$(grep "$name" stock.txt)
 		new_stock="$new_stock$new_line$(date +%d.%m.%Y)|$(echo "$line" | rev | cut -d ' ' -f1 | rev)||\n"
 	done <<< "$formatted_new"
+	
+	if [ ! -d "backup" ];then
+		echo "backup doesn't exist, creating new"
+		mkdir backup
+	fi
 	echo -e "$new_stock" > stock.txt
-	echo -e "$original" > stock_backup_$(date +%d.%m.%Y).txt
+	echo -e "$original" > backup/stock_backup_$(date +%d.%m.%Y).txt
 else
 	echo "No existing stock data found, creating new"
 	formatted_new=$(echo -e "$new" | rev | cut -d ' ' -f8- | rev)
