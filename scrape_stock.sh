@@ -17,6 +17,6 @@ while read -r line;do
 		line_to_append="$line_to_append $line"
 	fi
 done <<< "$site"
-trim=$(echo -e "$new" | gsed -e 's/<[^>]\+>//g' -e 's/^[ \t]*//g' -e 's/.*rssi //g' -e '/^$/d' | sort )
+trim=$(echo -e "$new" | gsed -e 's/<[^>]\+>//g' -e 's/^[ \t]*//g' -e 's/.*rssi //g' -e '/^$/d' -e "s/'//g" | sort )
 echo "$trim"
 
