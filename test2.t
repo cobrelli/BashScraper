@@ -1,40 +1,40 @@
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHPI">OMX Helsinki</a></td> <td class="num">7361.56</td> <td class="num down">-0.13%</td> <td class="num">7391.85</td> <td class="num">7361.30</td> <td class="num">7371.28</td> <td class="num">12:12</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXH25">OMX Helsinki 25</a></td> <td class="num">2838.14</td> <td class="num down">-0.15%</td> <td class="num">2849.19</td> <td class="num">2837.98</td> <td class="num">2842.48</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHCAPPI">OMX Helsinki Cap</a></td> <td class="num">4744.66</td> <td class="num down">-0.10%</td> <td class="num">4760.75</td> <td class="num">4744.62</td> <td class="num">4749.56</td> <td class="num">11:56</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXH15">OMX Helsinki 15</a></td> <td class="num">764.37</td> <td class="num down">-0.14%</td> <td class="num">767.30</td> <td class="num">764.26</td> <td class="num">765.47</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHBPI">OMX Helsinki Benchmark</a></td> <td class="num">41.04</td> <td class="num down">-0.10%</td> <td class="num">41.21</td> <td class="num">41.04</td> <td class="num">41.09</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHBCAPPI">OMX Helsinki Benchmark Cap</a></td> <td class="num">131.67</td> <td class="num down">-0.13%</td> <td class="num">132.13</td> <td class="num">131.67</td> <td class="num">131.84</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHCAPGI">OMX Helsinki Cap tuotto</a></td> <td class="num">10931.95</td> <td class="num down">-0.09%</td> <td class="num">10968.29</td> <td class="num">10931.00</td> <td class="num">10942.31</td> <td class="num">11:56</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHBGI">OMX Helsinki Bmk tuotto</a></td> <td class="num">67.22</td> <td class="num down">-0.10%</td> <td class="num">67.49</td> <td class="num">67.22</td> <td class="num">67.29</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHBCAPGI">OMX Helsinki Bmk Cap tuotto</a></td> <td class="num">245.41</td> <td class="num down">-0.13%</td> <td class="num">246.27</td> <td class="num">245.41</td> <td class="num">245.73</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHMCPI">OMX Helsinki Mid Cap</a></td> <td class="num">224.09</td> <td class="num down">-0.03%</td> <td class="num">224.68</td> <td class="num">224.06</td> <td class="num">224.15</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=OMXHSCPI">OMX Helsinki Small Cap</a></td> <td class="num">224.80</td> <td class="num down">-0.64%</td> <td class="num">226.38</td> <td class="num">224.59</td> <td class="num">226.25</td> <td class="num">11:55</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX0001PI"><nobr>Öljy ja kaasu</nobr></a></td> <td class="num">1330.25</td> <td class="num down">-0.28%</td> <td class="num">1339.50</td> <td class="num">1328.40</td> <td class="num">1333.95</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX0500PI"><nobr>Öljy ja kaasu</nobr></a></td> <td class="num">1330.25</td> <td class="num down">-0.28%</td> <td class="num">1328.40</td> <td class="num">1339.50</td> <td class="num">1333.95</td> <td class="num">11:56</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX1000PI"><nobr>Perusmateriaalit</nobr></a></td> <td class="num">728.25</td> <td class="num down">-0.03%</td> <td class="num">730.38</td> <td class="num">727.11</td> <td class="num">728.49</td> <td class="num">11:57</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX1300PI"><nobr>Kemianteollisuus</nobr></a></td> <td class="num">1003.35</td> <td class="num down">-0.83%</td> <td class="num">999.16</td> <td class="num">1010.89</td> <td class="num">1011.73</td> <td class="num">11:57</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX1700PI"><nobr>Perusluonnonvarat</nobr></a></td> <td class="num">702.18</td> <td class="num up">+0.06%</td> <td class="num">701.14</td> <td class="num">703.94</td> <td class="num">701.76</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX2000PI"><nobr>Teollisuustuotteet ja -palvelut</nobr></a></td> <td class="num">1180.52</td> <td class="num down">-0.33%</td> <td class="num">1185.99</td> <td class="num">1180.39</td> <td class="num">1184.47</td> <td class="num">11:57</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX2300PI"><nobr>Rakennustoiminta ja -materiaalit</nobr></a></td> <td class="num">894.81</td> <td class="num down">-0.56%</td> <td class="num">894.44</td> <td class="num">897.82</td> <td class="num">899.82</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX2700PI"><nobr>Teollisuushyödykkeet ja -palvelut</nobr></a></td> <td class="num">1220.86</td> <td class="num down">-0.31%</td> <td class="num">1220.59</td> <td class="num">1226.90</td> <td class="num">1224.68</td> <td class="num">11:57</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX3000PI"><nobr>Kulutustavarat</nobr></a></td> <td class="num">1142.62</td> <td class="num down">-0.34%</td> <td class="num">1147.90</td> <td class="num">1141.70</td> <td class="num">1146.54</td> <td class="num">11:57</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX3300PI"><nobr>Autoteollisuus ja -tarvikkeet</nobr></a></td> <td class="num">1077.46</td> <td class="num down">-0.59%</td> <td class="num">1074.28</td> <td class="num">1085.55</td> <td class="num">1083.82</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX3500PI"><nobr>Ruoka- ja juomateollisuus</nobr></a></td> <td class="num">1302.54</td> <td class="num down">-0.16%</td> <td class="num">1302.54</td> <td class="num">1306.36</td> <td class="num">1304.68</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX3700PI"><nobr>Kotitaloustarvikkeet</nobr></a></td> <td class="num">1184.67</td> <td class="num down">-0.01%</td> <td class="num">1184.30</td> <td class="num">1188.98</td> <td class="num">1184.82</td> <td class="num">11:56</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX4000PI"><nobr>Terveydenhuolto</nobr></a></td> <td class="num">1037.28</td> <td class="num down">-0.08%</td> <td class="num">1044.58</td> <td class="num">1032.53</td> <td class="num">1038.11</td> <td class="num">11:55</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX4500PI"><nobr>Terveydenhuolto</nobr></a></td> <td class="num">1037.28</td> <td class="num down">-0.08%</td> <td class="num">1032.53</td> <td class="num">1043.18</td> <td class="num">1038.11</td> <td class="num">11:55</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX5000PI"><nobr>Kulutuspalvelut</nobr></a></td> <td class="num">654.54</td> <td class="num down">-0.11%</td> <td class="num">655.59</td> <td class="num">652.42</td> <td class="num">655.26</td> <td class="num">11:57</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX5300PI"><nobr>Vähittäiskauppa</nobr></a></td> <td class="num">713.56</td> <td class="num down">-0.23%</td> <td class="num">712.43</td> <td class="num">716.16</td> <td class="num">715.23</td> <td class="num">11:57</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX5500PI"><nobr>Viestintä</nobr></a></td> <td class="num">535.62</td> <td class="num up">+0.18%</td> <td class="num">532.39</td> <td class="num">535.62</td> <td class="num">534.67</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX5700PI"><nobr>Matkustus ja vapaa-aika</nobr></a></td> <td class="num">778.04</td> <td class="num down">-0.22%</td> <td class="num">776.33</td> <td class="num">781.46</td> <td class="num">779.75</td> <td class="num">11:47</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX6000PI"><nobr>Tietoliikennepalvelut</nobr></a></td> <td class="num">1218.53</td> <td class="num down">-0.18%</td> <td class="num">1221.91</td> <td class="num">1217.40</td> <td class="num">1220.79</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX6500PI"><nobr>Tietoliikennepalvelut</nobr></a></td> <td class="num">1218.53</td> <td class="num down">-0.18%</td> <td class="num">1217.40</td> <td class="num">1221.91</td> <td class="num">1220.79</td> <td class="num">11:56</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX7000PI"><nobr>Yleishyödylliset palvelut</nobr></a></td> <td class="num">858.29</td> <td class="num up">+0.18%</td> <td class="num">859.79</td> <td class="num">856.79</td> <td class="num">856.79</td> <td class="num">11:55</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX7500PI"><nobr>Yleishyödylliset palvelut</nobr></a></td> <td class="num">858.29</td> <td class="num up">+0.18%</td> <td class="num">856.79</td> <td class="num">859.79</td> <td class="num">856.79</td> <td class="num">11:54</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX8000PI"><nobr>Rahoitus</nobr></a></td> <td class="num">1418.99</td> <td class="num up">+0.01%</td> <td class="num">1423.73</td> <td class="num">1418.36</td> <td class="num">1418.88</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX8300PI"><nobr>Pankit</nobr></a></td> <td class="num">1349.56</td> <td class="num down">-0.12%</td> <td class="num">1349.46</td> <td class="num">1355.67</td> <td class="num">1351.23</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX8500PI"><nobr>Vakuutus</nobr></a></td> <td class="num">1559.50</td> <td class="num up">+0.09%</td> <td class="num">1558.60</td> <td class="num">1565.33</td> <td class="num">1558.15</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX8600PI"><nobr>Kiinteistöyhtiöt</nobr></a></td> <td class="num">972.42</td> <td class="num down">-0.09%</td> <td class="num">970.81</td> <td class="num">974.43</td> <td class="num">973.27</td> <td class="num">11:56</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX8700PI"><nobr>Rahoituspalvelut</nobr></a></td> <td class="num">730.05</td> <td class="num down">-0.74%</td> <td class="num">730.05</td> <td class="num">733.99</td> <td class="num">735.48</td> <td class="num">11:53</td>
- <td><a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX9000PI"><nobr>Teknologia</nobr></a></td> <td class="num">1343.97</td> <td class="num up">+0.22%</td> <td class="num">1352.44</td> <td class="num">1343.80</td> <td class="num">1340.98</td> <td class="num">11:57</td>
- <td>&nbsp;&nbsp;&nbsp;<a href="http://www.kauppalehti.fi/5/i/porssi/porssikurssit/indeksi.jsp?indid=HX9500PI"><nobr>Teknologia</nobr></a></td> <td class="num">1343.97</td> <td class="num up">+0.22%</td> <td class="num">1343.80</td> <td class="num">1352.44</td> <td class="num">1340.98</td> <td class="num">11:57</td>
+ OMX Helsinki 7361.35 -0.13% 7391.85 7358.77 7371.28 12:50
+ OMX Helsinki 25 2835.45 -0.25% 2849.19 2835.19 2842.48 12:35
+ OMX Helsinki Cap 4740.92 -0.18% 4760.75 4740.45 4749.56 12:34
+ OMX Helsinki 15 763.54 -0.25% 767.30 763.37 765.47 12:35
+ OMX Helsinki Benchmark 41.01 -0.18% 41.21 41.01 41.09 12:34
+ OMX Helsinki Benchmark Cap 131.55 -0.21% 132.13 131.55 131.84 12:34
+ OMX Helsinki Cap tuotto 10922.62 -0.18% 10968.29 10921.33 10942.31 12:34
+ OMX Helsinki Bmk tuotto 67.16 -0.19% 67.49 67.16 67.29 12:34
+ OMX Helsinki Bmk Cap tuotto 245.21 -0.21% 246.27 245.21 245.73 12:34
+ OMX Helsinki Mid Cap 224.11 -0.02% 224.68 223.87 224.15 12:34
+ OMX Helsinki Small Cap 224.62 -0.72% 226.38 224.40 226.25 12:35
+ Öljy ja kaasu 1328.40 -0.42% 1339.50 1327.47 1333.95 12:33
+ -Öljy ja kaasu 1328.40 -0.42% 1328.40 1339.50 1333.95 12:33
+ Perusmateriaalit 726.89 -0.22% 730.38 726.21 728.49 12:34
+ -Kemianteollisuus 1005.03 -0.66% 999.16 1010.89 1011.73 12:31
+ -Perusluonnonvarat 700.47 -0.18% 699.83 703.94 701.76 12:34
+ Teollisuustuotteet ja -palvelut 1180.37 -0.35% 1185.99 1180.22 1184.47 12:34
+ -Rakennustoiminta ja -materiaalit 892.67 -0.80% 891.90 897.82 899.82 12:34
+ -Teollisuushyödykkeet ja -palvelut 1221.13 -0.29% 1220.59 1226.90 1224.68 12:35
+ Kulutustavarat 1143.09 -0.30% 1147.90 1141.39 1146.54 12:35
+ -Autoteollisuus ja -tarvikkeet 1075.72 -0.75% 1074.28 1085.55 1083.82 12:34
+ -Ruoka- ja juomateollisuus 1302.54 -0.16% 1300.67 1306.36 1304.68 12:29
+ -Kotitaloustarvikkeet 1187.63 +0.24% 1183.86 1188.98 1184.82 12:31
+ Terveydenhuolto 1035.09 -0.29% 1044.58 1032.39 1038.11 12:34
+ -Terveydenhuolto 1035.09 -0.29% 1032.39 1043.18 1038.11 12:34
+ Kulutuspalvelut 653.04 -0.34% 655.59 652.42 655.26 12:34
+ -Vähittäiskauppa 710.97 -0.60% 710.97 716.16 715.23 12:34
+ -Viestintä 536.24 +0.29% 532.39 537.71 534.67 12:32
+ -Matkustus ja vapaa-aika 774.62 -0.66% 774.62 781.46 779.75 12:24
+ Tietoliikennepalvelut 1219.10 -0.14% 1221.91 1217.40 1220.79 12:31
+ -Tietoliikennepalvelut 1218.81 -0.16% 1217.40 1221.91 1220.79 12:35
+ Yleishyödylliset palvelut 857.79 +0.12% 859.79 856.79 856.79 12:35
+ -Yleishyödylliset palvelut 857.79 +0.12% 856.79 859.79 856.79 12:34
+ Rahoitus 1416.18 -0.19% 1423.73 1415.06 1418.88 12:34
+ -Pankit 1349.94 -0.10% 1348.83 1355.67 1351.23 12:34
+ -Vakuutus 1555.01 -0.20% 1552.31 1565.33 1558.15 12:34
+ -Kiinteistöyhtiöt 970.01 -0.33% 969.59 974.43 973.27 12:34
+ -Rahoituspalvelut 730.05 -0.74% 730.05 733.99 735.48 12:21
+ Teknologia 1343.92 +0.22% 1352.44 1343.80 1340.98 12:34
+ -Teknologia 1343.92 +0.22% 1343.80 1352.44 1340.98 12:34

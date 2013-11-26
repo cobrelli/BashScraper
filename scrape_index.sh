@@ -8,7 +8,6 @@ while read -r line;do
 	if [[ "$line" == *Sivun\ alkuun/Printversion\ starts* ]];then
 		break
 	fi
-
 	if [[ found -eq 0 && "$line" == *Helsingin\ indeksit* ]]; then
 		found=1
 	elif [[ found -eq 1 ]];then
@@ -20,10 +19,5 @@ while read -r line;do
 		line_to_append="$line_to_append $line"
 	fi
 done <<< "$site"
-trim=$(echo -e $new | gsed -e 's/.*>Nimi<.*//g' -e '/^$/d' )
-#trim=$(echo -e "$new" | gsed -e 's/<[^>]\+>//g' -e 's/^[ \t]*//g' -e 's/.*rssi //g' -e '/^$/d' | sort )
-#echo "$trim"
-
-#echo -e "$line_to_append"
+trim=$(echo -e $new | gsed -e 's/.*>Nimi<.*//g' -e '/^$/d' -e 's/<[^>]\+>//g' -e 's/&nbsp;/@/g' -e 's/@\+/-/g' )
 echo -e "$trim"
-#echo "$site"
