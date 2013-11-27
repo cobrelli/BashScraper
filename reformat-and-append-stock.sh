@@ -10,12 +10,12 @@ if [ -f stock.txt ];then
 
 	while read -r line;do
 		name=$(echo "$line" | rev | cut -d ' ' -f2- | rev)
-		new_line=$(grep "$name" stock.txt)
+		new_line=$(grep -- "$name" stock.txt | head -1)
 		new_stock="$new_stock$new_line$(date +%d.%m.%Y)|$(echo "$line" | rev | cut -d ' ' -f1 | rev)||\n"
 	done <<< "$formatted_new"
-	
+
 	if [ ! -d "backup" ];then
-		echo "backup doesn't exist, creating new"
+		echo "backup folder doesn't exist, creating new"
 		mkdir backup
 	fi
 	echo -e "$new_stock" > stock.txt
