@@ -7,16 +7,11 @@ if [ -f index.txt ];then
 
 	formatted_new=$(echo -e "$new" | rev | cut -d ' ' -f6- | rev)
 	new_index="";
-	#echo "$formatted_new"
 	while read -r line;do
 		name=$(echo "$line" | rev | cut -d ' ' -f2- | rev)
-		#echo "$name"
 		new_line=$(grep -- "$name" index.txt | head -1)
-		#echo "$new_line"
 		new_index="$new_index$new_line$(date +%d.%m.%Y)|$(echo "$line" | rev | cut -d ' ' -f1 | rev)||\n"
 	done <<< "$formatted_new"
-
-	#echo -e "$new_index"
 
 	if [ ! -d "backup" ];then
 		echo "backup folder doesn't exist, creating new"
