@@ -10,7 +10,7 @@ if [ -f index.txt ];then
 	while read -r line;do
 		name=$(echo "$line" | rev | cut -d ' ' -f2- | rev)
 		new_line=$(grep -- "$name" index.txt | head -1)
-		new_index="$new_index$new_line$(date +%d.%m.%Y)|$(echo "$line" | rev | cut -d ' ' -f1 | rev)||\n"
+		new_index="$new_index$new_line#$(date +%d.%m.%Y)|$(echo "$line" | rev | cut -d ' ' -f1 | rev)\n"
 	done <<< "$formatted_new"
 
 	if [ ! -d "backup" ];then
@@ -25,7 +25,7 @@ else
 	data_format=""
 	while read -r line;do
 		line_start=$(echo "$line" | rev | cut -d ' ' -f2- | rev)
-		data_format="$data_format$line_start||$(date +%d.%m.%Y)|$(echo "$line" | rev | cut -d ' ' -f1 | rev)||\n"
+		data_format="$data_format$line_start#$(date +%d.%m.%Y)|$(echo "$line" | rev | cut -d ' ' -f1 | rev)\n"
 	done <<< "$formatted_new"
 	echo -e "$data_format" > index.txt
 fi

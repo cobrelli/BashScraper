@@ -1,41 +1,41 @@
-OMX Helsinki||27.11.2013|7372.43||
-OMX Helsinki 25||27.11.2013|2844.99||
-OMX Helsinki Cap||27.11.2013|4752.33||
-OMX Helsinki 15||27.11.2013|765.98||
-OMX Helsinki Benchmark||27.11.2013|41.10||
-OMX Helsinki Benchmark Cap||27.11.2013|131.94||
-OMX Helsinki Cap tuotto||27.11.2013|10948.69||
-OMX Helsinki Bmk tuotto||27.11.2013|67.31||
-OMX Helsinki Bmk Cap tuotto||27.11.2013|245.92||
-OMX Helsinki Mid Cap||27.11.2013|225.23||
-OMX Helsinki Small Cap||27.11.2013|224.75||
-Öljy ja kaasu||27.11.2013|1323.77||
--Öljy ja kaasu||27.11.2013|1323.77||
-Perusmateriaalit||27.11.2013|735.50||
--Kemianteollisuus||27.11.2013|1004.19||
--Perusluonnonvarat||27.11.2013|709.91||
-Teollisuustuotteet ja -palvelut||27.11.2013|1187.01||
--Rakennustoiminta ja -materiaalit||27.11.2013|898.35||
--Teollisuushyödykkeet ja -palvelut||27.11.2013|1227.79||
-Kulutustavarat||27.11.2013|1152.55||
--Autoteollisuus ja -tarvikkeet||27.11.2013|1088.44||
--Ruoka- ja juomateollisuus||27.11.2013|1302.10||
--Kotitaloustarvikkeet||27.11.2013|1194.86||
-Terveydenhuolto||27.11.2013|1031.48||
--Terveydenhuolto||27.11.2013|1031.78||
-Kulutuspalvelut||27.11.2013|657.30||
--Vähittäiskauppa||27.11.2013|716.32||
--Viestintä||27.11.2013|540.27||
--Matkustus ja vapaa-aika||27.11.2013|771.20||
-Tietoliikennepalvelut||27.11.2013|1217.40||
--Tietoliikennepalvelut||27.11.2013|1217.40||
-Yleishyödylliset palvelut||27.11.2013|850.28||
--Yleishyödylliset palvelut||27.11.2013|850.28||
-Rahoitus||27.11.2013|1418.55||
--Pankit||27.11.2013|1351.57||
--Vakuutus||27.11.2013|1557.70||
--Kiinteistöyhtiöt||27.11.2013|973.16||
--Rahoituspalvelut||27.11.2013|727.12||
-Teknologia||27.11.2013|1336.45||
--Teknologia||27.11.2013|1336.45||
+OMX Helsinki#29.11.2013|7338.93#29.11.2013|7338.93
+OMX Helsinki 25#29.11.2013|2819.45#29.11.2013|2819.13
+OMX Helsinki Cap#29.11.2013|4725.27#29.11.2013|4725.27
+OMX Helsinki 15#29.11.2013|758.19#29.11.2013|758.07
+OMX Helsinki Benchmark#29.11.2013|40.83#29.11.2013|40.83
+OMX Helsinki Benchmark Cap#29.11.2013|131.06#29.11.2013|131.06
+OMX Helsinki Cap tuotto#29.11.2013|10887.00#29.11.2013|10887.76
+OMX Helsinki Bmk tuotto#29.11.2013|66.87#29.11.2013|66.87
+OMX Helsinki Bmk Cap tuotto#29.11.2013|244.30#29.11.2013|244.30
+OMX Helsinki Mid Cap#29.11.2013|226.62#29.11.2013|226.62
+OMX Helsinki Small Cap#29.11.2013|230.35#29.11.2013|230.35
+Öljy ja kaasu#29.11.2013|1303.42#29.11.2013|1302.50
+-Öljy ja kaasu#29.11.2013|1302.50#29.11.2013|1302.50
+Perusmateriaalit#29.11.2013|717.78#29.11.2013|717.88
+-Kemianteollisuus#29.11.2013|989.11#29.11.2013|989.11
+-Perusluonnonvarat#29.11.2013|692.28#29.11.2013|692.28
+Teollisuustuotteet ja -palvelut#29.11.2013|1182.41#29.11.2013|1182.41
+-Rakennustoiminta ja -materiaalit#29.11.2013|889.20#29.11.2013|889.20
+-Teollisuushyödykkeet ja -palvelut#29.11.2013|1223.79#29.11.2013|1223.79
+Kulutustavarat#29.11.2013|1131.83#29.11.2013|1131.83
+-Autoteollisuus ja -tarvikkeet#29.11.2013|1055.49#29.11.2013|1055.49
+-Ruoka- ja juomateollisuus#29.11.2013|1293.69#29.11.2013|1293.69
+-Kotitaloustarvikkeet#29.11.2013|1185.32#29.11.2013|1184.95
+Terveydenhuolto#29.11.2013|1045.14#29.11.2013|1045.14
+-Terveydenhuolto#29.11.2013|1045.14#29.11.2013|1045.14
+Kulutuspalvelut#29.11.2013|680.18#29.11.2013|680.25
+-Vähittäiskauppa#29.11.2013|758.54#29.11.2013|758.54
+-Viestintä#29.11.2013|543.94#29.11.2013|543.94
+-Matkustus ja vapaa-aika#29.11.2013|760.58#29.11.2013|760.58
+Tietoliikennepalvelut#29.11.2013|1192.60#29.11.2013|1192.60
+-Tietoliikennepalvelut#29.11.2013|1192.60#29.11.2013|1192.60
+Yleishyödylliset palvelut#29.11.2013|844.27#29.11.2013|844.27
+-Yleishyödylliset palvelut#29.11.2013|844.27#29.11.2013|844.27
+Rahoitus#29.11.2013|1408.73#29.11.2013|1408.73
+-Pankit#29.11.2013|1342.09#29.11.2013|1342.09
+-Vakuutus#29.11.2013|1544.23#29.11.2013|1544.23
+-Kiinteistöyhtiöt#29.11.2013|978.04#29.11.2013|978.04
+-Rahoituspalvelut#29.11.2013|727.92#29.11.2013|727.92
+Teknologia#29.11.2013|1348.76#29.11.2013|1348.76
+-Teknologia#29.11.2013|1348.76#29.11.2013|1348.76
 
