@@ -19,5 +19,5 @@ while read -r line;do
 		line_to_append="$line_to_append $line"
 	fi
 done <<< "$site"
-trim=$(echo -e $new | gsed -e 's/.*>Nimi<.*//g' -e '/^$/d' -e 's/<[^>]\+>/,/g' -e 's/&nbsp;/@/g' -e 's/@\+/-/g' -e 's/,\+/,/g' -e 's/^[ \t]*//g' -e 's/,-,/-/g' -e 's/^[,]//g' -e 's/, ,/,/g'|cut -d ',' -f1,2)
+trim=$(echo -e $new | gsed -e 's/.*>Nimi<.*//g' -e '/^$/d' -e 's/<[^>]\+>/,/g' -e 's/&nbsp;/@/g' -e 's/@\+/-/g' -e 's/,\+/,/g' -e 's/^[ \t]*//g' -e 's/,-,/-/g' -e 's/^[,]//g' -e 's/, ,/,/g' -e|cut -d ',' -f1,2)
 echo -e "$trim"
